@@ -17,7 +17,7 @@
 | 文件 | 说明 |
 |---|---|
 | `灵感来自懂球帝.md` | 产品规划全文（用户 / 需求 / 架构 / 施工 / 运营） |
-| `docs/ROADMAP.md` | 工程落地 MVP（若要从文档走到可跑 Demo） |
+| `docs/ROADMAP.md` / `docs/CHECKLIST-M0.md` | 工程落地 MVP（若要从文档走到可跑 Demo） |
 
 ## 是什么 / 不是什么
 
